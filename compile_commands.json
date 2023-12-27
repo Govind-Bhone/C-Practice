@@ -1,9 +1,0 @@
-[{
-  "file": "/Users/govind/Documents/CplusplusTutorial/ObjectOrientedProgramming/main.cpp",
-  "directory": "/Users/govind/Documents/CplusplusTutorial/ObjectOrientedProgramming",
-  "command": "/usr/bin/g++ -c /Users/govind/Documents/CplusplusTutorial/ObjectOrientedProgramming/main.cpp -o /Users/govind/Documents/CplusplusTutorial/ObjectOrientedProgramming/main.cpp.o -target arm64-apple-darwin22.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "/Users/govind/Documents/CplusplusTutorial/BasicProgramming/HelloWorld.cpp",
-  "directory": "/Users/govind/Documents/CplusplusTutorial/BasicProgramming",
-  "command": "/usr/bin/g++ -c /Users/govind/Documents/CplusplusTutorial/BasicProgramming/HelloWorld.cpp -o /Users/govind/Documents/CplusplusTutorial/BasicProgramming/HelloWorld.cpp.o -target arm64-apple-darwin22.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }]
