@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<int> primes;
+vector<int> primes = {2, 3, 5, 7, 11, 13, 17, 19};
 
 int main(){
     cout << "The vector has " << primes.size() << " elements" << endl;
@@ -17,6 +17,10 @@ int main(){
     cout << "The element at index 2 is " << primes[2] << endl;
     primes[2] = 99;
     cout << "The element at index 2 is " << primes[2] << endl;
+
+    cout << endl;
+
+
 
     vector<Cow> cattle;
     cattle.push_back(Cow("B", 6 , meat));
